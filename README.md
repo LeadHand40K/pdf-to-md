@@ -16,3 +16,10 @@ Install Python dependencies:
 
 ```bash
 pip install pymupdf
+
+##Usage
+
+Place your PDF in the project folder, then run:
+
+```bash
+python pdf_to_md.py input.pdf output.md
